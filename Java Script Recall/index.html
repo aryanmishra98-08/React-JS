@@ -4,7 +4,21 @@
     <title>JavaScript Refresher</title>
     <link rel="stylesheet" href="assets/styles/main.css" />
     <meta charset="UTF-8" />
-    <script src = "assets/scripts/app.js" defer></script>
+    <!--
+        # JavaScript File Deferment
+        To delay the loading of a JavaScript file and ensure that all elements of an HTML page are loaded first, the `defer` attribute can be used in the script tag.
+        Example:
+        ```html
+        <script src="assets/scripts/app.js" defer></script>
+    -->
+    <script src = "assets/scripts/app.js" type="module"></script>
+    <!--
+        # JavaScript Module Import
+        To import a JavaScript module using the script tag, you can use the `type="module"` attribute.
+        Example:
+        ```html
+        <script src="file path" type="module"></script>
+    -->
   </head>
 
   <body>
