@@ -14,53 +14,28 @@ ReactJS, on the other hand, is a JavaScript library.  A library is a set of pre-
 <br>
 Benefits of plain JavaScript
 </br>
-<br>
 - Lower learning curve
 - High performance
 - There are no complex libraries or settings to configure
 - Can be used for front-end and back-end (additional resources are usually recommended for the latter)
 - Seamlessly integrates with other programming languages
-</br>
 <br>
 Disadvantages of plain JavaScript
 </br>
-<br>
-❌Time-consuming, as developers have to write a lot of code
-</br>
-<br>
-❌Does not always work well for large applications with complex features
-</br>
-<br>
-❌Lack of debugging facilities
-</br>
+- Time-consuming, as developers have to write a lot of code
+- Does not always work well for large applications with complex features
+- Lack of debugging facilities
 <br>
 Benefits of ReactJS
 </br>
-<br>
-✔️Renders complex content quickly on web pages
-</br>
-<br>
-✔️Able to build rich user interfaces
-</br>
-<br>
-✔️Easy to maintain and update the components
-</br>
-<br>
-✔️High performance
-</br>
-<br>
-✔️Extensive debugging tools
-</br>
+- Renders complex content quickly on web pages
+- Able to build rich user interfaces
+- Easy to maintain and update the components
+- High performance
+- Extensive debugging tools
 <br>
 Disadvantages of ReactJS
 </br>
-<br>
-❌Steep learning curve
-</br>
-<br>
-❌Geared for front-end only
-</br>
-<br>
-❌Does not support older browsers
-</br>
-<br>
+- Steep learning curve
+- Geared for front-end only
+- Does not support older browsers
