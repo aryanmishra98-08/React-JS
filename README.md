@@ -11,31 +11,23 @@ It's a library for web and native user interfaces.
 **Why to use React instead of Javascript**  
 JavaScript is a front-end programming language that is mainly used to add interactive elements to web pages—the search bar at the top of this page is a good example.  
 ReactJS, on the other hand, is a JavaScript library.  A library is a set of pre-written codes that makes programming quicker. ReactJS provides code for making powerful user interfaces (UIs).  
-<br>
-Benefits of plain JavaScript
-</br>
+Benefits of plain JavaScript </br >
 - Lower learning curve
 - High performance
 - There are no complex libraries or settings to configure
 - Can be used for front-end and back-end (additional resources are usually recommended for the latter)
 - Seamlessly integrates with other programming languages
-<br>
-Disadvantages of plain JavaScript
-</br>
+Disadvantages of plain JavaScript </br >
 - Time-consuming, as developers have to write a lot of code
 - Does not always work well for large applications with complex features
 - Lack of debugging facilities
-<br>
-Benefits of ReactJS
-</br>
+Benefits of ReactJS </br >
 - Renders complex content quickly on web pages
 - Able to build rich user interfaces
 - Easy to maintain and update the components
 - High performance
 - Extensive debugging tools
-<br>
-Disadvantages of ReactJS
-</br>
+Disadvantages of ReactJS </br >
 - Steep learning curve
 - Geared for front-end only
 - Does not support older browsers
