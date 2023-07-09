@@ -16,7 +16,7 @@ ReactJS, on the other hand, is a JavaScript library.  A library is a set of pre-
 <br/>
 
 <br>
-Benefits of plain JavaScript  
+Benefits of plain JavaScript<br />
 - Lower learning curve
 - High performance
 - There are no complex libraries or settings to configure
