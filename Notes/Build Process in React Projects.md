@@ -1,5 +1,4 @@
 # Build Process in React Projects
-
 React projects utilize a build process to transform the code and prepare it for execution in the browser. Unlike traditional web development where script tags are directly included in the HTML file, React projects handle code transformation behind the scenes.
 
 Here's an overview of the build process in React projects:
