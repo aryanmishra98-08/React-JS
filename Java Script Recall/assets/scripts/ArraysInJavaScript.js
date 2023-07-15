@@ -5,6 +5,7 @@ console.log("Arrays in JavaScript");
 
 //----------------//
 //Array Creation:
+console.log("Arrays Creation");
 //----------------//
 
 let myEmptyArray = []; // An empty array
@@ -14,6 +15,7 @@ let mixedArray = [1, 'two', { name: 'John' }]; // An array with mixed values
 
 //----------------//
 //Accessing Array Values:
+console.log("Accessing Array Values");
 //----------------//
 
 //Array values can be accessed using their index, starting from zero.
@@ -22,6 +24,7 @@ console.log(numbers[2]); // Output: 3
 
 //----------------//
 //Array Utility Methods:
+console.log("Array Utility Methods");
 //----------------//
 
 //JavaScript provides built-in utility methods for arrays, which can be accessed using dot notation.

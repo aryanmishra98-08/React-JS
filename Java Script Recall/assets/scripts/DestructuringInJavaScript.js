@@ -5,6 +5,7 @@ console.log("Destructuring in JavaScript");
 
 //----------------//
 //Destructuring Arrays:
+console.log("Destructuring Arrays");
 //----------------//
 
 //Destructuring arrays is done by using square brackets [] on the left side of the assignment operator =. The values are assigned to new variables in the order they appear in the array.
@@ -17,6 +18,7 @@ console.log(e); // Output: 3
 
 //----------------//
 //Destructuring Objects:
+console.log("Destructuring Objects");
 //----------------//
 
 //Destructuring objects is done by using curly braces {} on the left side of the assignment operator =. The values are assigned to new variables based on their property names.
@@ -28,6 +30,7 @@ console.log(age); // Output: 30
 
 //----------------//
 //Aliases and Default Values:
+console.log("Aliases and Default Values");
 //----------------//
 
 //Aliases can be assigned to destructured values by using a colon : followed by the new variable name. Default values can also be provided using the assignment operator =.
@@ -45,6 +48,7 @@ console.log(personAge); // Output: 25
 
 //----------------//
 //Destructuring in Function Parameters:
+console.log("Destructuring in Function Parameters");
 //----------------//
 
 //The destructuring syntax can be used in function parameter lists to extract object properties and make them available as locally scoped variables inside the function body.

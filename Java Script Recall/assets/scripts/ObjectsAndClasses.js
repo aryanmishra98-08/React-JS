@@ -5,6 +5,7 @@ console.log("Objects and Classes");
 
 //----------------//
 //Class Declaration and Constructor Method:
+console.log("Class Declaration and Constructor Method");
 //----------------//
 
 //You can declare a class using the class keyword, followed by the name of the class, and a set of curly braces {} containing the class body.
@@ -25,6 +26,7 @@ console.log(rectangle.calculateArea()); // Outputs: 15
 
 //----------------//
 //Methods:
+console.log("Methods");
 //----------------//
 
 //Class methods are functions defined within the class that can be accessed and invoked on instances of the class.
@@ -49,6 +51,7 @@ rectangleDimensions.printDimensions(); // Outputs: Width: 5, Height: 3
 
 //----------------//
 //Inheritance:
+console.log("Inheritance");
 //----------------//
 
 //Classes support inheritance, allowing you to create subclasses that inherit properties and methods from a parent class.

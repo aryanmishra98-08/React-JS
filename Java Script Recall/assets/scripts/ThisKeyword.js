@@ -6,6 +6,7 @@ console.log("This Keyword");
 
 //----------------//
 //Global Context:
+console.log("Global Context");
 //----------------//
 
 //When this is used in the global scope (outside of any function), it refers to the global object, which is typically window in a web browser or global in Node.js.
@@ -13,6 +14,7 @@ console.log(this); // Outputs: Window (in a browser environment)
 
 //----------------//
 //Object Methods:
+console.log("Object Methods");
 //----------------//
 
 //When a function is invoked as a method of an object, this refers to the object itself. It allows you to access the object's properties and methods within the function.
@@ -28,6 +30,7 @@ personDetail.sayHello(); // Outputs: Hello, John!
 
 //----------------//
 //Event Handlers:
+//console.log("Event Handlers");
 //----------------//
 
 //When a function is used as an event handler, this typically refers to the element that triggered the event.

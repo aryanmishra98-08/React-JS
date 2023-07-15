@@ -5,6 +5,7 @@ console.log("Spread Operator in JavaScript");
 
 //----------------//
 //Spread Operator with Arrays:
+console.log("Spread Operator with Arrays");
 //----------------//
 
 //When used with arrays, the spread operator consists of three dots ... followed by the name of the array to be spread. It pulls out all the elements of an array and adds them as separate values to a new array.
@@ -15,6 +16,7 @@ console.log(newNumbers); // Output: [1, 2, 3, 4, 5]
 
 //----------------//
 //Spread Operator with Objects:
+console.log("Spread Operator with Objects");
 //----------------//
 
 //When used with objects, the spread operator also consists of three dots ... followed by the name of the object to be spread. It pulls out all the key-value pairs of an object and adds them as key-value pairs to a new object.
@@ -25,6 +27,7 @@ console.log(newJohnPersonalDetails); // Output: { name: 'John', age: 30, city: '
 
 //----------------//
 //Merging Arrays and Objects:
+console.log("Merging Arrays and Objects");
 //----------------//
 
 //The spread operator can be used to merge arrays together, creating a new array with all the values, or merge objects together, creating a new object with all the properties.

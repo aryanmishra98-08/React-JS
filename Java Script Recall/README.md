@@ -42,7 +42,7 @@ The "scripts" folder contains all the JavaScript files used in this project. It 
 
 12. `SpreadOperatorInJavaScript.js`: This file explains the spread operator (`...`) in JavaScript. It showcases its usage for array manipulation, object merging, and function arguments.
 
-13. `ConditionalStatementsAndLoopsInJavaScript.js`: This file covers conditional statements (such as `if`, `else`, `switch`) and different types of loops (such as `for`, `while`, `do-while`) in JavaScript.
+13. `ConditionalStatementsAndLoopsInJavaScript.js`: This file covers conditional statements such as `if`, `else` `for` in JavaScript.
 
 14. `FunctionsAsValuesAndPassingFunctions.js`: This file explores the concept of functions as values in JavaScript. It explains how functions can be assigned to variables, passed as arguments, and returned from other functions.
 

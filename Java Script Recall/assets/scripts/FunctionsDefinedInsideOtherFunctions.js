@@ -5,6 +5,7 @@ console.log("Functions Defined Inside Other Functions");
 
 //----------------//
 //Accessing Inner Functions:
+console.log("Accessing Inner Functions");
 //----------------//
 
 //The innerFunction is defined within the body of the outerFunction.

@@ -5,6 +5,7 @@ console.log("Arrow function");
 
 //----------------//
 //Basic Syntax:
+console.log("Basic Syntax");
 //----------------//
 
 //Arrow functions are defined using the arrow (=>) syntax. They have a shorter syntax compared to regular function expressions.
@@ -26,6 +27,7 @@ console.log(arrowAddResult);
 
 //----------------//
 //Implicit Return:
+console.log("Implicit Return");
 //----------------//
 
 //Arrow functions can have an implicit return when the function body consists of a single expression. In such cases, the function automatically returns the result of that expression without using the return keyword.
