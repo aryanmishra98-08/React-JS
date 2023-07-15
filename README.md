@@ -12,13 +12,13 @@ Please note that for detailed instructions on exploring each folder, it is recom
 - Java Script Recall
 - Notes
 
-## JavaScript Recall
+### JavaScript Recall
 
-Description: The "JavaScript Recall" folder contains resources to help you refresh and reinforce your knowledge of JavaScript basics. It includes code snippets and explanations for various JavaScript concepts.
+The "JavaScript Recall" folder contains resources to help you refresh and reinforce your knowledge of JavaScript basics. It includes code snippets and explanations for various JavaScript concepts.
 
-## Notes
+### Notes
 
-Description: The "Notes" folder serves as a centralized repository for all the important notes and reference materials related to React. It contains valuable information, explanations, and code snippets that can be referred to across different folders within the repository.
+The "Notes" folder serves as a centralized repository for all the important notes and reference materials related to React. It contains valuable information, explanations, and code snippets that can be referred to across different folders within the repository.
 
 The notes files in this folder are referenced in the README files of specific folders to provide additional context, explanations, and examples for the topics covered in those folders. Each notes file is named appropriately to correspond to the relevant topic or concept.
 
