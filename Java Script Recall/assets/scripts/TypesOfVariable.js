@@ -1,9 +1,9 @@
 //---------------------------------------------------//
-console.log("Types of variable")
+console.log("Types of variable");
 
 //----------------//
 //Undefined:
-console.log("Undefined")
+console.log("Undefined");
 //----------------//
 
 //Variables that have been declared but not assigned a value have the value of undefined
@@ -12,7 +12,7 @@ console.log(myVariable); // undefined
 
 //----------------//
 //Null:
-console.log("Null")
+console.log("Null");
 //----------------//
 
 //The null value represents the intentional absence of any object value. It is a special value that denotes the absence of a value.
@@ -21,7 +21,7 @@ console.log(myNullVariable); // null
 
 //----------------//
 //Boolean:
-console.log("Boolean")
+console.log("Boolean");
 //----------------//
 
 //The boolean type represents logical values, either true or false. Boolean values are commonly used in conditional statements and comparisons.
@@ -32,7 +32,7 @@ console.log(isFalse); // false
 
 //----------------//
 //Number:
-console.log("Number")
+console.log("Number");
 //----------------//
 
 //The number type represents numeric values, including integers and floating-point numbers.
@@ -43,7 +43,7 @@ console.log(pi); // 3.14
 
 //----------------//
 //String:
-console.log("String")
+console.log("String");
 //----------------//
 
 //The string type represents a sequence of characters enclosed in single or double quotes. Strings are used to store and manipulate textual data.
@@ -54,7 +54,7 @@ console.log(anotherString); // I'm a string.
 
 //----------------//
 //Object:
-console.log("Object")
+console.log("Object");
 //----------------//
 
 //Objects are complex data types that can store collections of key-value pairs. Objects can represent real-world entities or abstract concepts.
@@ -69,7 +69,7 @@ console.log(person.isStudent); // true
 
 //----------------//
 //Array:
-console.log("Array")
+console.log("Array");
 //----------------//
 
 //Arrays are special types of objects that store multiple values in a single variable. Array elements are indexed starting from 0.

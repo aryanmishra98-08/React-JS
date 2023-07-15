@@ -1,5 +1,5 @@
 //---------------------------------------------------//
-console.log("Import - Export")
+console.log("Import - Export");
 
 //----------------//
 //Import a variable:
@@ -24,9 +24,9 @@ console.log("Import all variables at once");
 
 //In order to export multiple variables at once we need to create an object of the utils file 
 import * as utils from "./ImportExport.js";
-console.log(utils.projectManager)
-console.log(utils.default)
-console.log(utils.projectTechnology)
+console.log(utils.projectManager);
+console.log(utils.default);
+console.log(utils.projectTechnology);
 
 //----------------//
 //Using 'as' keyword:

@@ -28,7 +28,6 @@ console.log("Array Utility Methods");
 //----------------//
 
 //JavaScript provides built-in utility methods for arrays, which can be accessed using dot notation.
-
 //The push method adds a new item to the end of an array.
 
 let fruitsList = ['apple', 'banana', 'orange'];
