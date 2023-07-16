@@ -1,4 +1,4 @@
-# React Repository Walkthrough
+# Java Script Recall Walkthrough
 
 Welcome to the walkthrough for exploring this folders in the repository. This guide will help you understand the structure and purpose of important files and folder.
 
